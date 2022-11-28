@@ -1,1 +1,4 @@
 # Proyecto_Final_IA
+
+El presente proyecto se realizó a partir de un proyecto de grado en curso, el cual es análisis de termogramas para detección de diabetes temprana, en donde sabemos que un pie que presenta síntomas de pie diabético, y ulceración, tendera a estar mas caliente que los pies de pacientes sanos, por lo que este es un problema de clasificación no supervisado ya que esta forma de clasificación está basada en píxeles y es esencialmente una clasificación automatizada por computadora.
+A partir de una bace de datos de pies proveniente de IEEE Data Port, se realizó un primer algoritmo capaz de separar pacientes sanos de pacientes diabéticos utilizando termogramas.El objetivo de este proyecto es obtener un F1 score(estadística que me da la medida de precisión que tiene el código para clasificar correctamente a los pacientes) de mas de 90%
